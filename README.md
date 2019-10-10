@@ -1,6 +1,8 @@
 # Learning Methods for Knowledge-Enhanced Word Embeddings
 
-Repository to contain runs, data, code, and information about the paper ``Learning Methods for Knowledge-Enhanced Word Embeddings'' (submitted to ECIR 2020 reproducibility track) by M. Agosti, S. Marchesin, and G. Silvello 
+Repository to contain runs, data, code, and information about the paper
+``Learning Methods for Knowledge-Enhanced Word Embeddings``
+Submitted to ECIR 2020 reproducibility track by M. Agosti, S. Marchesin, and G. Silvello 
 
 ## Additional Performance Analysis for Joint Learning and Retrofitting Models
 **Analysis of the &alpha; and &beta; hyper-parameters:** 
