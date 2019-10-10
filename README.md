@@ -19,3 +19,19 @@ using the best &gamma; from Table 1 and their behavior is compared with the beha
 In general, we observe smaller performance variations for the reproduced versions as &alpha; and &beta change. This is especially true for the re-ranking methods using the joint learning model, where the original versions present performance variations greater than 0.025 for some &alpha; and &beta; values. This indicates that the impact of the relational knowledge, injected into word embeddings during learning, is minimized when the embeddings are applied to a re-ranking scenario. In fact, relying on a BoW method to gather an initial pool of 1000 documents leaves candidate documents most affected by the vocabulary mismatch (i.e., relevant documents that do not contain query terms) undiscovered. Consequently, the potential of knowledge-enhanced word embeddings is not fully expressed in a re-ranking scenario.
 
 ### Requirements
+
+- ElasticSearch 6.6
+- Python 3
+ - Numpy
+ - TensorFlow >= 1.13
+ - Whoosh
+ - SQLite3
+ - Cvangysel
+ - Pytrec_Eval
+ - Scikit-Learn
+ - Tqdm
+- QuickUMLS
+- UMLS 2018AA
+
+#### Notes
+server.py needs to be substitued within QuickUMLS folder as it contains a modified version required to run knowledge-enhanced models.
