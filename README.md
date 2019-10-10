@@ -2,7 +2,7 @@
 
 Repository to contain code and information for the paper: 
 <p align="center">
-<b><i>Learning Methods for Knowledge-Enhanced Word Embeddings<i><b>
+<b><i>Learning Methods for Knowledge-Enhanced Word Embeddings</i></b>
  </p>
 Submitted to ECIR 2020 reproducibility track by M. Agosti, S. Marchesin, and G. Silvello 
 
