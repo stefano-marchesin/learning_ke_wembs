@@ -22,14 +22,14 @@ In general, we observe smaller performance variations for the reproduced version
 
 - ElasticSearch 6.6
 - Python 3
- - Numpy
- - TensorFlow >= 1.13
- - Whoosh
- - SQLite3
- - Cvangysel
- - Pytrec_Eval
- - Scikit-Learn
- - Tqdm
+  - Numpy
+  - TensorFlow >= 1.13
+  - Whoosh
+  - SQLite3
+  - Cvangysel
+  - Pytrec_Eval
+  - Scikit-Learn
+  - Tqdm
 - QuickUMLS
 - UMLS 2018AA
 
