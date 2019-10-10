@@ -2,7 +2,7 @@ Repository to contain runs, data, code, and information about the paper ``Learni
 
 **Analysis of the &alpha; and &beta; hyper-parameters:** 
  
-The plots in Figure 1 show the sensitivity of the &alpha; and &beta; hyper-parameters for the joint learning and the modified retrofitting models. For each re-ranking combination, values of  &alpha;, &beta; ∈ {0:02; 0:04; 0:1; 0:3; 0:4; 0:5; 0:6; 0:7; 0:9; 1} are tested
+The plots in Figure 1 show the sensitivity of the &alpha; and &beta; hyper-parameters for the joint learning and the modified retrofitting models. For each re-ranking combination, values of  &alpha;, &beta; ∈ {0.02; 0.04; 0.1; 0.3; 0.4; 0.5; 0.6; 0.7; 0.9; 1} are tested
 using the best &gamma; from Table 1 and their behavior is compared with the behavior reported in the reference paper. Blue plots represent the behavior of the reproduced models as &alpha;,&beta; varies, whereas red plots represent the behavior of the original models.
 
 
