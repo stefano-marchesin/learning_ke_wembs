@@ -44,4 +44,5 @@ In general, we observe smaller performance variations for the reproduced version
 The folder structure required to run experiments can be seen in folder ``example``. Python files need to be put in root.  
 Qrels file needs to be in ``.txt`` format.  
 To perform retrofitting models run ``retrofit_word_vecs.py``, to perform the alternate learning model run ``tf_run_jointcrm.py``, and to perform the joint learning model run ``tf_run_ccbow.py``.
-To run BM25 or QLM, use the Jupyter Notebook file ``elastic_search.ipynb``.
+To run BM25 or QLM, use the Jupyter Notebook file ``elastic_search.ipynb``.  
+To perform re-ranking run ``reranking.py``.
