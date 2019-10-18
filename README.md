@@ -21,7 +21,7 @@ In general, we observe smaller performance variations for the reproduced version
 **Tukey's t-test to evaluate the statistical significance between the reproduced models:** 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/stefano-marchesin/learning_ke_wembs/master/figure/tukey_p10_OHSUMED.jpg" alt="https://raw.githubusercontent.com/stefano-marchesin/learning_ke_wembs/master/figure/tukey_p10_OHSUMED.jpg" width="500" height="500">
+<img src="https://raw.githubusercontent.com/stefano-marchesin/learning_ke_wembs/master/figure/tukey_p10_OHSUMED.jpg" alt="https://raw.githubusercontent.com/stefano-marchesin/learning_ke_wembs/master/figure/tukey_p10_OHSUMED.jpg" width="250" height="500">
 </p>
 
 ### Requirements
