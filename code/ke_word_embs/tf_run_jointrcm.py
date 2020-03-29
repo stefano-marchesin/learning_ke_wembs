@@ -40,7 +40,7 @@ FLAGS = flags.FLAGS
 
 
 class Options(object):
-	"""options used by the Neural Vector Space Model (NVSM)"""
+	"""options used by the Word2Vec model"""
 
 	def __init__(self):
 		# word embeddings dimension
