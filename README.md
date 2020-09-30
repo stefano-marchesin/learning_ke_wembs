@@ -2,7 +2,7 @@
 
 Repository to contain code and information for: 
 <p align="center">
-<b><i>Learning Methods for Knowledge-Enhanced Word Embeddings</i></b>
+<b><i>Knowledge-Enhanced Word Embeddings for IR</i></b>
  </p>
 
 ### Requirements
